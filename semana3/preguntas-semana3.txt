@@ -1,0 +1,11 @@
+Pregunta 1: ¿Que es git?
+Respuesta: R// B. Un sistema de control de versiones para registrar cambios en proyectos
+
+Pregunta 2:Un sistema de control de versiones para registrar cambios en proyectos
+Respuesta:R// B. Registrar y organizar los archivos y cambios de un proyecto
+
+Pregunta 3: ¿Qué hace el comando git add?
+Respuesta: R// B. Agrega archivos al área de preparación para registrar cambios
+
+Pregunta 4: ¿Qué hace el comando git commit?
+Respuesta: R// A. Guarda un registro de cambios realizados en el proyecto

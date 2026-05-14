@@ -1,0 +1,11 @@
+Yo creo que es muy importante usar Git en los proyectos porque nos ayuda
+a no perder el trabajo que ya hemos hecho. Si en algún momento cometemos
+un error, podemos volver a una versión anterior sin problema.
+También es útil cuando se trabaja en equipo, porque cada persona puede
+hacer sus cambios sin dañar el trabajo de los demás. Eso evita muchos
+conflictos y confusiones.
+Además Git nos ayuda a llevar un orden, porque podemos ver exactamente
+qué cambió, quién lo cambió y cuándo. Eso es muy útil para entender
+cómo fue avanzando el proyecto.
+En conclusión creo que Git es una herramienta muy importante que todo
+programador debería aprender a usar desde el principio.
