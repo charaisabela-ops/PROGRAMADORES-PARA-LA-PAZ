@@ -1,0 +1,3 @@
+Ruta http://localhost:3000: Muestra en la pantalla el mensaje 'Servidor activo'. Es la ruta raíz o de inicio del servidor.
+Ruta http://localhost:3000/saludo: Muestra en la pantalla el mensaje 'Hola comunidad'. Sirve para dar una bienvenida general.
+Ruta http://localhost:3000/mensaje/juan: Muestra en la pantalla 'Hola juan'. Es una ruta dinámica que cambia el saludo según el nombre que se ponga en la URL.
