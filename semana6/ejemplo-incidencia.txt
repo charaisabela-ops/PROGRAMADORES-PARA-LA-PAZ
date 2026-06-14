@@ -1,0 +1,17 @@
+EJEMPLO DE JSON PARA REPORTAR UNA INCIDENCIA
+
+Un ciudadano podría enviar una petición POST a:
+http://localhost:3000/incidencia
+
+Con el siguiente JSON en el cuerpo de la petición:
+{
+  "tipo": "Iluminación pública",
+  "descripcion": "La comunidad reporta que una lámpara del parque no funciona desde hace varios días."
+}
+
+RESPUESTA QUE DEVUELVE EL SERVIDOR:
+{
+  "mensaje": "Incidencia registrada",
+  "tipo": "Iluminación pública",
+  "descripcion": "La comunidad reporta que una lámpara del parque no funciona desde hace varios días."
+}

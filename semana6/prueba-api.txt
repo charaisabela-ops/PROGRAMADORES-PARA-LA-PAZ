@@ -1,0 +1,25 @@
+PRUEBA DE LA API - Ruta /registro
+
+Se envió una petición POST a la siguiente dirección:
+http://localhost:3000/registro
+
+Con el siguiente JSON en el cuerpo (body) de la petición:
+{
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+RESPUESTA QUE DEVUELVE EL SERVIDOR:
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+EXPLICACIÓN:
+El servidor recibe los datos enviados por el cliente gracias al middleware
+express.json(), que permite leer el contenido en formato JSON. Los datos
+llegan dentro de req.body, por eso podemos acceder a req.body.nombre y a
+req.body.mensaje. El servidor toma esos valores y los devuelve en una
+respuesta JSON, agregando además el campo "estado" con el texto
+"Datos recibidos" para confirmar que la información llegó correctamente.
