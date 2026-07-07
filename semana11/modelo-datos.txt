@@ -1,0 +1,26 @@
+Entidad: Incidencia
+
+Campos principales:
+- id
+- titulo
+- descripcion
+- fecha
+- estado
+
+Propósito:
+Guardar los reportes de incidencias registrados por los ciudadanos para 
+dejar evidencia del caso y hacer seguimiento a su estado.
+
+
+Entidad: Reporte
+
+Campos principales:
+- id
+- incidencia_id
+- usuario
+- fecha
+- comentario
+
+Propósito:
+Registrar los comentarios o actualizaciones que recibe cada incidencia, 
+para hacer seguimiento a la participación del equipo de veeduría.

@@ -1,0 +1,21 @@
+La interfaz de la plataforma sería simple y fácil de usar para cualquier 
+ciudadano. Estaría compuesta por las siguientes partes:
+
+Formulario para crear una causa:
+Un formulario donde el usuario ingresa un título, una descripción y la fecha 
+de la causa que quiere registrar. Al enviarlo, la causa queda guardada y 
+visible para los demás usuarios.
+
+Botón para apoyar una causa:
+Cada causa mostrada en la plataforma tendría un botón llamado "Apoyar", que 
+permite a cualquier usuario registrar su apoyo con un solo clic.
+
+Contador de apoyos:
+Junto a cada causa se mostraría un número que indica cuántas personas la han 
+apoyado hasta el momento, actualizándose cada vez que alguien presiona el 
+botón de apoyo.
+
+Vista de causas disponibles:
+Una lista o galería donde se muestran todas las causas activas, con su título, 
+descripción breve y el contador de apoyos, para que los usuarios puedan 
+explorar y decidir a cuáles apoyar.
