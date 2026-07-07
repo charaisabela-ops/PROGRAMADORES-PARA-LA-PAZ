@@ -1,0 +1,9 @@
+Como ciudadano quiero registrar una incidencia comunitaria para dejar evidencia de problemas que afectan a mi comunidad.
+
+Como coordinador de la veeduría quiero recibir notificaciones de nuevos reportes para atender los casos más importantes.
+
+Como miembro del equipo de seguimiento quiero consultar los reportes registrados para verificar el avance de las soluciones.
+
+Como ciudadano quiero consultar el estado de mis reportes para conocer si la situación fue atendida.
+
+Como administrador quiero generar informes de las incidencias reportadas para analizar las necesidades de la comunidad.

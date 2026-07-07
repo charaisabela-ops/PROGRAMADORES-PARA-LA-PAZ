@@ -1,0 +1,15 @@
+Las metodologías ágiles ayudan a que una comunidad organice su trabajo de forma 
+clara, porque permiten priorizar qué se hace primero mediante el backlog y avanzar 
+poco a poco con iteraciones cortas. Esto evita que el equipo se sienta abrumado 
+tratando de resolver todo al mismo tiempo. Además, trabajar por iteraciones facilita 
+mostrar avances constantes y corregir errores a tiempo.
+
+La automatización, como el uso de n8n junto con Telegram, permite que tareas 
+repetitivas, como enviar notificaciones o alertas, se hagan solas, ahorrando tiempo 
+y evitando que se pierda información importante. Esto le da más agilidad al proceso 
+de participación ciudadana, porque las personas se enteran rápido de lo que pasa 
+con sus reportes.
+
+Sin embargo, es importante usar estas herramientas con criterio, protegiendo 
+siempre los datos sensibles y sin automatizar decisiones que requieren análisis 
+humano.
