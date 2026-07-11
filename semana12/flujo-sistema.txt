@@ -1,0 +1,5 @@
+El ciudadano ingresa al sistema y crea una nueva petición o causa.
+El sistema guarda la información de la petición en la base de datos.
+Otros ciudadanos ingresan al sistema y apoyan la petición.
+El sistema registra y cuenta automáticamente la cantidad de apoyos recibidos.
+Cuando finaliza el proceso, el sistema genera un documento PDF con la petición y el número de apoyos para presentarlo a la entidad correspondiente.

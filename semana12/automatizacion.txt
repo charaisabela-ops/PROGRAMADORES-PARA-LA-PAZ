@@ -1,0 +1,10 @@
+Automatización simple usando Telegram
+
+Evento que activa la automatización:
+Cuando se registra una nueva causa en la plataforma, el sistema activa automáticamente la notificación.
+
+Mensaje que se envía:
+“Se ha creado una nueva causa en la plataforma. Revisa la información y participa brindando tu apoyo.”
+
+Información que no debe enviarse por seguridad:
+No se deben compartir datos personales o sensibles de los usuarios, como números de cédula, teléfonos, direcciones, contraseñas, información privada o comentarios que puedan afectar la seguridad de las personas.
